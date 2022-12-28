@@ -12,14 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        
-//        fdsfhsddsfdsfdsfd
-//        sf
-//        dsf
-//        sd
-//        fds
-//        f
-//        DispatchSourceFileSystemObjectds
+
     }
 
 }
